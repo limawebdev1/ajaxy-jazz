@@ -21,3 +21,6 @@ button{
   min-height:300px;
   padding:3px;
 }
+.collection{
+  display:none;
+}
