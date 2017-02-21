@@ -1,6 +1,23 @@
 body {
   background: url('http://images.all-free-download.com/images/graphiclarge/milk_advertising_background_splash_cow_heads_repeating_style_6827844.jpg');
+  height:100%;
 }
 .container{
   background:white;
+  padding-bottom:40px;
+}
+h3{
+  padding-top:20px;
+}
+button{
+  position:relative;
+  top:30px;
+}
+.movies{
+  min-height:300px;
+}
+.row .col.movie{
+  border: 1px solid black;
+  min-height:300px;
+  padding:3px;
 }
